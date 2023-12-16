@@ -1,11 +1,12 @@
 {
   "development": {
     "username": "root",
-    "password": null,
-    "database": "database_development",
+    "password": "yuds1983",
+    "database": "dev_auction",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
+
   "test": {
     "username": "root",
     "password": null,
